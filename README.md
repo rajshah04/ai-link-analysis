@@ -10,9 +10,13 @@ FastAPI service that fetches a website, extracts its real content, and uses an L
 
 | | URL |
 |---|---|
-| Live demo | `https://ai-link-analysis-wpre.onrender.com` |
-| API endpoint | `https://ai-link-analysis-wpre.onrender.com/link-analysis` |
-| API docs | `https://ai-link-analysis-wpre.onrender.com/docs` |
+| Live demo | https://ai-link-analysis-wpre.onrender.com |
+| API endpoint | https://ai-link-analysis-wpre.onrender.com/link-analysis (POST only; try it in the docs) |
+| API docs | https://ai-link-analysis-wpre.onrender.com/docs |
+
+> Hosted on Render's free tier: after 15 minutes idle, the first request can take 30–60 s while the service wakes up. Open `/health` first, then try the `/docs`.
+
+> The root URL (`/`) redirects to the interactive API docs at `/docs`. `/link-analysis` accepts POST only.
 
 ## Quick start
 
