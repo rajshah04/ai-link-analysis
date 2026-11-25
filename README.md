@@ -10,9 +10,9 @@ FastAPI service that fetches a website, extracts its real content, and uses an L
 
 | | URL |
 |---|---|
-| Live demo | `TODO: https://your-domain.com` |
-| API endpoint | `TODO: https://your-domain.com/link-analysis` |
-| API docs | `TODO: https://your-domain.com/docs` |
+| Live demo | `https://ai-link-analysis-wpre.onrender.com` |
+| API endpoint | `https://ai-link-analysis-wpre.onrender.com/link-analysis` |
+| API docs | `https://ai-link-analysis-wpre.onrender.com/docs` |
 
 ## Quick start
 
