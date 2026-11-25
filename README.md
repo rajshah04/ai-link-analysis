@@ -17,7 +17,7 @@ FastAPI service that fetches a website, extracts its real content, and uses an L
 ## Quick start
 
 ```bash
-git clone <repo-url> && cd ai-link-analysis
+git clone https://github.com/rajshah04/ai-link-analysis.git && cd ai-link-analysis
 python -m venv .venv
 source .venv/bin/activate          # Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
