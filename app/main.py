@@ -9,7 +9,7 @@ from functools import lru_cache
 
 from fastapi import Depends, FastAPI, Header, Request
 from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, RedirectResponse
 
 from app.config import get_settings
 from app.schemas import ErrorResponse, LinkAnalysisRequest, LinkAnalysisResponse
@@ -79,6 +79,9 @@ async def _unhandled(_: Request, exc: Exception):
     log.exception("Unhandled error")  # stack trace stays in server logs only
     return _error(500, "INTERNAL_ERROR", "An unexpected error occurred.")
 
+@app.get("/", include_in_schema=False)
+async def root():
+    return RedirectResponse(url="/docs")
 
 @app.get("/health", tags=["meta"])
 async def health():
