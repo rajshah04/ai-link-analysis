@@ -1,0 +1,409 @@
+{
+  "success": true,
+  "website": "https://crest.dxora.com/",
+  "brand": {
+    "name": "CREST",
+    "category": "Digital Marketing & Brand Awareness Platform",
+    "summary": "CREST is an AI-powered brand awareness platform that helps businesses secure the #1 industry spot through automated promotion, AI-driven syndication, and cross-platform outreach."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "CREST provides a unique 'pay-to-claim' #1 industry position model, leveraging AI agents to syndicate brand content across search and social networks.",
+      "main_category": "Digital Marketing & Brand Promotion",
+      "main_products_services": [
+        "AI-powered brand promotion",
+        "Industry #1 spot claiming",
+        "Social media outreach",
+        "WhatsApp automation",
+        "Web development"
+      ],
+      "brand_positioning": {
+        "main_service": "AI-powered #1 industry spot syndication",
+        "target_market": "Small to medium-sized businesses and digital agencies",
+        "key_strength": "Exclusive #1 industry positioning and AI-driven automated outreach",
+        "opportunity": "Expanding into enterprise-level market dominance and deeper integration with LLM search discovery"
+      },
+      "competitors": [
+        {
+          "name": "Semrush",
+          "website": "https://www.semrush.com",
+          "main_service": "SEO and competitive intelligence",
+          "target_market": "Digital marketers and SEO professionals",
+          "strengths": [
+            "Comprehensive data",
+            "Market-leading analytics"
+          ],
+          "weaknesses_or_gaps": [
+            "High cost",
+            "Steep learning curve"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion_verified_by_site_fetch",
+          "verified": true,
+          "verification_note": "Website reachable and mentions the company name (page title: Semrush: Your Unfair Advantage for Growing Brand Visibility)."
+        },
+        {
+          "name": "HubSpot",
+          "website": "https://www.hubspot.com",
+          "main_service": "CRM and inbound marketing",
+          "target_market": "SMEs and enterprises",
+          "strengths": [
+            "All-in-one platform",
+            "Strong automation"
+          ],
+          "weaknesses_or_gaps": [
+            "Expensive scaling",
+            "Complexity"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion_verified_by_site_fetch",
+          "verified": true,
+          "verification_note": "Website reachable and mentions the company name (page title: HubSpot | Software & Tools for your Business - Homepage)."
+        },
+        {
+          "name": "BrightLocal",
+          "website": "https://www.brightlocal.com",
+          "main_service": "Local SEO and reputation management",
+          "target_market": "Local businesses",
+          "strengths": [
+            "Local focus",
+            "Review management"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited to local search",
+            "Lacks AI-driven outreach"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion",
+          "verified": false,
+          "verification_note": "Could not verify website: The website refused automated access (HTTP 403); it may use bot protection or require login."
+        }
+      ],
+      "strengths": [
+        "Exclusive #1 industry positioning model",
+        "AI-driven automated syndication",
+        "Low barrier to entry with 'Spark' plan",
+        "Direct integration with social media and AI agents"
+      ],
+      "opportunities": [
+        "Develop case studies for specific high-growth industries",
+        "Create educational content on AI-driven brand discovery",
+        "Expand partnership programs for digital agencies"
+      ],
+      "comparison_table": [
+        {
+          "attribute": "Brand Name",
+          "your_brand": "CREST",
+          "competitor": "Semrush",
+          "competitor_name": "Semrush"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "AI-powered #1 industry spot syndication",
+          "competitor": "SEO and competitive intelligence",
+          "competitor_name": "Semrush"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Small to medium-sized businesses and digital agencies",
+          "competitor": "Digital marketers and SEO professionals",
+          "competitor_name": "Semrush"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Exclusive #1 industry positioning and AI-driven automated outreach",
+          "competitor": "Comprehensive data; Market-leading analytics",
+          "competitor_name": "Semrush"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding into enterprise-level market dominance and deeper integration with LLM search discovery",
+          "competitor": "High cost; Steep learning curve",
+          "competitor_name": "Semrush"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "CREST",
+          "competitor": "HubSpot",
+          "competitor_name": "HubSpot"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "AI-powered #1 industry spot syndication",
+          "competitor": "CRM and inbound marketing",
+          "competitor_name": "HubSpot"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Small to medium-sized businesses and digital agencies",
+          "competitor": "SMEs and enterprises",
+          "competitor_name": "HubSpot"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Exclusive #1 industry positioning and AI-driven automated outreach",
+          "competitor": "All-in-one platform; Strong automation",
+          "competitor_name": "HubSpot"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding into enterprise-level market dominance and deeper integration with LLM search discovery",
+          "competitor": "Expensive scaling; Complexity",
+          "competitor_name": "HubSpot"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "CREST",
+          "competitor": "BrightLocal",
+          "competitor_name": "BrightLocal"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "AI-powered #1 industry spot syndication",
+          "competitor": "Local SEO and reputation management",
+          "competitor_name": "BrightLocal"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Small to medium-sized businesses and digital agencies",
+          "competitor": "Local businesses",
+          "competitor_name": "BrightLocal"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Exclusive #1 industry positioning and AI-driven automated outreach",
+          "competitor": "Local focus; Review management",
+          "competitor_name": "BrightLocal"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding into enterprise-level market dominance and deeper integration with LLM search discovery",
+          "competitor": "Limited to local search; Lacks AI-driven outreach",
+          "competitor_name": "BrightLocal"
+        }
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "how to get my business to rank #1 in my industry",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational/Commercial",
+        "business_relevance": "Directly addresses the core value proposition of CREST",
+        "target_audience": "Small business owners"
+      },
+      {
+        "query": "AI tools for brand awareness and visibility",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "Discovery",
+        "business_relevance": "Highlights the AI-powered nature of the platform",
+        "target_audience": "Marketing managers"
+      },
+      {
+        "query": "best digital marketing platform for small business growth",
+        "platforms": [
+          "LinkedIn"
+        ],
+        "intent": "Commercial",
+        "business_relevance": "Positions CREST as a growth partner",
+        "target_audience": "B2B service providers"
+      },
+      {
+        "query": "automate brand promotion on social media",
+        "platforms": [
+          "X"
+        ],
+        "intent": "Problem-solving",
+        "business_relevance": "Focuses on the automation features of CREST",
+        "target_audience": "Social media managers"
+      },
+      {
+        "query": "increase online visibility for local showroom",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "Commercial",
+        "business_relevance": "Targets the specific customer segment mentioned in the 'Get Featured' plan",
+        "target_audience": "Retail business owners"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "brand awareness platform",
+      "secondary_keywords": [
+        "AI brand promotion",
+        "industry #1 spot",
+        "online business visibility"
+      ],
+      "long_tail_keywords": [
+        "how to increase brand visibility with AI",
+        "claim #1 industry position online"
+      ],
+      "business_keywords": [
+        "digital marketing automation",
+        "brand growth strategy"
+      ],
+      "recommended_title": "CREST: AI-Powered Brand Awareness & #1 Industry Ranking",
+      "title_structure": "Brand Name: Primary Keyword | Value Proposition",
+      "meta_description": "Boost your brand awareness with CREST. Use our AI-powered platform to secure the #1 spot in your industry, increase visibility, and drive growth.",
+      "supporting_content": [
+        {
+          "type": "service_landing_page",
+          "title": "AI-Powered Brand Syndication",
+          "rationale": "Explains the technical advantage of the CREST engine."
+        },
+        {
+          "type": "faq",
+          "title": "How the #1 Industry Spot Works",
+          "rationale": "Addresses common questions about the exclusive ranking model."
+        },
+        {
+          "type": "blog_topic",
+          "title": "Why Your Brand Needs AI-Driven Visibility in 2026",
+          "rationale": "Positions the brand as a thought leader in AI marketing."
+        },
+        {
+          "type": "industry_page",
+          "title": "Brand Growth for IT & Tech Service Providers",
+          "rationale": "Targets the high-value segment identified in the plans."
+        },
+        {
+          "type": "supporting_article",
+          "title": "The Science of Market Supremacy: Claiming Your Crest",
+          "rationale": "Deep dive into the 'Mountain Pinnacle' philosophy."
+        },
+        {
+          "type": "blog_topic",
+          "title": "Automating Your Social Presence: A Guide for Small Businesses",
+          "rationale": "Targets the 'Spark' and 'Get Featured' plan users."
+        }
+      ],
+      "current_title": "Brand Awareness Platform for Businesses | CREST",
+      "current_meta_description": "Build brand awareness and improve online visibility with CREST. Discover AI-powered brand promotion and start growing your brand for free.",
+      "title_length": 55,
+      "meta_description_length": 145
+    },
+    "top_services": [
+      {
+        "name": "Industry #1 Spot Claiming",
+        "description": "Exclusive placement as the #1 brand in a specific industry category.",
+        "target_industry": "All",
+        "target_customer": "Businesses seeking market leadership",
+        "main_benefit": "Maximum visibility and authority",
+        "source": "website",
+        "evidence": "Pay & Claim #1 Spot: Pay the claim amount and secure the #1 position in your industry."
+      },
+      {
+        "name": "AI-Powered Brand Syndication",
+        "description": "Automated distribution of brand content across AI agents and search networks.",
+        "target_industry": "All",
+        "target_customer": "Businesses wanting automated growth",
+        "main_benefit": "24/7 live promotion",
+        "source": "website",
+        "evidence": "Syndicate your brand across AI agents and search networks."
+      },
+      {
+        "name": "WhatsApp Automation",
+        "description": "Automated messaging solutions for customer engagement.",
+        "target_industry": "Retail and Service",
+        "target_customer": "Small businesses",
+        "main_benefit": "Improved customer communication",
+        "source": "website",
+        "evidence": "TOP SERVICES: Whats'App Automation"
+      },
+      {
+        "name": "Web Development",
+        "description": "Custom website creation and lead engine development.",
+        "target_industry": "Tech and Service",
+        "target_customer": "Startups and SMEs",
+        "main_benefit": "Foundation for online growth",
+        "source": "website",
+        "evidence": "Web Development @1,999/-"
+      },
+      {
+        "name": "Competitor Watch",
+        "description": "Real-time tracking and insights on industry competitors.",
+        "target_industry": "All",
+        "target_customer": "Competitive brands",
+        "main_benefit": "Stay ahead of market trends",
+        "source": "website",
+        "evidence": "Competitor Watch: Track competitors in real-time and get insights to stay ahead."
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Small business owners",
+        "Digital agencies",
+        "IT service providers"
+      ],
+      "secondary_audience": [
+        "Franchise brands",
+        "Retail showrooms"
+      ],
+      "industries": [
+        "Technology",
+        "Fashion",
+        "Financial Services",
+        "Wellness & Health"
+      ],
+      "business_types": [
+        "SMEs",
+        "Service-based businesses",
+        "Tech startups"
+      ],
+      "customer_profiles": [
+        "Growth-oriented entrepreneurs",
+        "Marketing managers"
+      ],
+      "geographic_focus": null,
+      "customer_needs": [
+        "Increased online visibility",
+        "Market leadership",
+        "Automated marketing"
+      ],
+      "customer_challenges": [
+        "Low search visibility",
+        "High competition",
+        "Lack of marketing time"
+      ],
+      "customer_interests": [
+        "AI technology",
+        "Brand growth",
+        "Digital transformation"
+      ],
+      "recommended_segments": [
+        {
+          "audience": "Digital Agencies",
+          "business_type": "B2B",
+          "requirement": "Scalable brand promotion and lead generation"
+        },
+        {
+          "audience": "Local Retailers",
+          "business_type": "B2C",
+          "requirement": "Increased footfall and local search prominence"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "pages_analyzed": [
+      "https://crest.dxora.com/"
+    ],
+    "cached": false,
+    "latency_ms": 12968,
+    "input_tokens": 3103,
+    "output_tokens": 2305,
+    "estimated_cost_usd": 0.004233,
+    "used_fallback_model": false,
+    "warnings": [],
+    "disclaimers": [
+      "Competitors are AI-generated suggestions. Entries with verified=true had a reachable website mentioning the company name; none are market-research findings.",
+      "No search-volume, ranking or traffic data is included: none was obtained from a real data source.",
+      "Services with source='inferred' are recommendations, not services stated on the website."
+    ]
+  }
+}

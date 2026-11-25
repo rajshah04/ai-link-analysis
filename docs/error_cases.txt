@@ -1,0 +1,29 @@
+### Invalid URL
+POST http://localhost:4000/link-analysis
+{"url": "not a url"}
+-> HTTP 400
+{"success":false,"error":{"code":"INVALID_URL","message":"URL must not contain whitespace or control characters."}}
+
+### Private IP (SSRF)
+POST http://localhost:4000/link-analysis
+{"url": "http://127.0.0.1/admin"}
+-> HTTP 400
+{"success":false,"error":{"code":"URL_NOT_ALLOWED","message":"URL points to a private or internal address."}}
+
+### Cloud metadata IP (SSRF)
+POST http://localhost:4000/link-analysis
+{"url": "http://169.254.169.254/latest/meta-data"}
+-> HTTP 400
+{"success":false,"error":{"code":"URL_NOT_ALLOWED","message":"URL points to a private or internal address."}}
+
+### Localhost name (SSRF)
+POST http://localhost:4000/link-analysis
+{"url": "http://localhost:4000/docs"}
+-> HTTP 400
+{"success":false,"error":{"code":"URL_NOT_ALLOWED","message":"This hostname is not allowed."}}
+
+### Non-existent domain
+POST http://localhost:4000/link-analysis
+{"url": "https://this-domain-does-not-exist-12345.com"}
+-> HTTP 422
+{"success":false,"error":{"code":"DNS_FAILURE","message":"The domain could not be resolved."}}

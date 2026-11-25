@@ -1,0 +1,419 @@
+{
+  "success": true,
+  "website": "https://www.youtube.com/",
+  "brand": {
+    "name": "YouTube",
+    "category": "Video Sharing and Social Media Platform",
+    "summary": "YouTube is a global video-sharing platform dedicated to giving everyone a voice, enabling users to upload, share, and discover original content, music, and entertainment while providing tools for creators and rightsholders."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "A dominant video-hosting platform with a massive ecosystem of creators, advertisers, and viewers.",
+      "main_category": "Digital Video & Entertainment",
+      "main_products_services": [
+        "Video Hosting",
+        "Live Streaming",
+        "YouTube Premium",
+        "YouTube Music",
+        "Content ID"
+      ],
+      "brand_positioning": {
+        "main_service": "Video content hosting and distribution",
+        "target_market": "Global internet users, content creators, and advertisers",
+        "key_strength": "Unmatched scale and creator ecosystem",
+        "opportunity": "Further integration of AI-driven creator tools and interactive community features"
+      },
+      "competitors": [
+        {
+          "name": "TikTok",
+          "website": "https://www.tiktok.com",
+          "main_service": "Short-form video sharing",
+          "target_market": "Gen Z and younger demographics",
+          "strengths": [
+            "Viral algorithm",
+            "High engagement rates"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited long-form content capabilities"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion",
+          "verified": false,
+          "verification_note": "Could not verify website: The website took too long to respond."
+        },
+        {
+          "name": "Vimeo",
+          "website": "https://vimeo.com",
+          "main_service": "Professional video hosting and collaboration",
+          "target_market": "B2B, filmmakers, and creative professionals",
+          "strengths": [
+            "High-quality ad-free player",
+            "Advanced privacy controls"
+          ],
+          "weaknesses_or_gaps": [
+            "Smaller audience reach compared to YouTube"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion_verified_by_site_fetch",
+          "verified": true,
+          "verification_note": "Website reachable and mentions the company name (page title: Vimeo - All-in-One Video Platform)."
+        },
+        {
+          "name": "Twitch",
+          "website": "https://www.twitch.tv",
+          "main_service": "Live streaming",
+          "target_market": "Gamers and live-event enthusiasts",
+          "strengths": [
+            "Real-time community interaction",
+            "Gaming focus"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited VOD (Video on Demand) infrastructure"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion_verified_by_site_fetch",
+          "verified": true,
+          "verification_note": "Website reachable and mentions the company name (page title: Twitch)."
+        }
+      ],
+      "strengths": [
+        "Massive global reach",
+        "Robust copyright management suite",
+        "Diverse monetization options for creators"
+      ],
+      "opportunities": [
+        "Expanding educational content partnerships",
+        "Enhancing live-streaming interactivity"
+      ],
+      "comparison_table": [
+        {
+          "attribute": "Brand Name",
+          "your_brand": "YouTube",
+          "competitor": "TikTok",
+          "competitor_name": "TikTok"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Video content hosting and distribution",
+          "competitor": "Short-form video sharing",
+          "competitor_name": "TikTok"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Global internet users, content creators, and advertisers",
+          "competitor": "Gen Z and younger demographics",
+          "competitor_name": "TikTok"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Unmatched scale and creator ecosystem",
+          "competitor": "Viral algorithm; High engagement rates",
+          "competitor_name": "TikTok"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Further integration of AI-driven creator tools and interactive community features",
+          "competitor": "Limited long-form content capabilities",
+          "competitor_name": "TikTok"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "YouTube",
+          "competitor": "Vimeo",
+          "competitor_name": "Vimeo"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Video content hosting and distribution",
+          "competitor": "Professional video hosting and collaboration",
+          "competitor_name": "Vimeo"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Global internet users, content creators, and advertisers",
+          "competitor": "B2B, filmmakers, and creative professionals",
+          "competitor_name": "Vimeo"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Unmatched scale and creator ecosystem",
+          "competitor": "High-quality ad-free player; Advanced privacy controls",
+          "competitor_name": "Vimeo"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Further integration of AI-driven creator tools and interactive community features",
+          "competitor": "Smaller audience reach compared to YouTube",
+          "competitor_name": "Vimeo"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "YouTube",
+          "competitor": "Twitch",
+          "competitor_name": "Twitch"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Video content hosting and distribution",
+          "competitor": "Live streaming",
+          "competitor_name": "Twitch"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Global internet users, content creators, and advertisers",
+          "competitor": "Gamers and live-event enthusiasts",
+          "competitor_name": "Twitch"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Unmatched scale and creator ecosystem",
+          "competitor": "Real-time community interaction; Gaming focus",
+          "competitor_name": "Twitch"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Further integration of AI-driven creator tools and interactive community features",
+          "competitor": "Limited VOD (Video on Demand) infrastructure",
+          "competitor_name": "Twitch"
+        }
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "how to start a youtube channel 2026",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational",
+        "business_relevance": "Acquiring new content creators",
+        "target_audience": "Aspiring creators"
+      },
+      {
+        "query": "best video editing tips for shorts",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "Educational",
+        "business_relevance": "Improving platform content quality",
+        "target_audience": "Content creators"
+      },
+      {
+        "query": "how to monetize youtube channel",
+        "platforms": [
+          "LinkedIn"
+        ],
+        "intent": "Commercial",
+        "business_relevance": "Promoting creator economy tools",
+        "target_audience": "Professional creators and influencers"
+      },
+      {
+        "query": "trending music videos 2026",
+        "platforms": [
+          "X"
+        ],
+        "intent": "Navigational",
+        "business_relevance": "Driving traffic to platform content",
+        "target_audience": "General viewers"
+      },
+      {
+        "query": "youtube premium family plan benefits",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "Transactional",
+        "business_relevance": "Subscription conversion",
+        "target_audience": "Families and consumers"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "YouTube",
+      "secondary_keywords": [
+        "video sharing",
+        "content creators",
+        "live streaming",
+        "YouTube Premium"
+      ],
+      "long_tail_keywords": [
+        "how to grow a youtube channel",
+        "youtube copyright tools explained"
+      ],
+      "business_keywords": [
+        "creator economy",
+        "video monetization"
+      ],
+      "recommended_title": "YouTube: Watch, Upload, and Share Original Videos",
+      "title_structure": "Brand Name: Primary Value Proposition",
+      "meta_description": "Join YouTube to watch your favorite videos, listen to music, and share your own stories with the world. Explore tools for creators and advertisers.",
+      "supporting_content": [
+        {
+          "type": "faq",
+          "title": "YouTube Creator FAQ",
+          "rationale": "Addresses common questions about monetization and channel growth."
+        },
+        {
+          "type": "blog_topic",
+          "title": "The Future of the Creator Economy in 2026",
+          "rationale": "Positions YouTube as a thought leader in the industry."
+        },
+        {
+          "type": "service_landing_page",
+          "title": "YouTube for Business",
+          "rationale": "Targets advertisers and brands looking to leverage the platform."
+        },
+        {
+          "type": "supporting_article",
+          "title": "Understanding Content ID and Copyright",
+          "rationale": "Educates rightsholders on platform safety tools."
+        },
+        {
+          "type": "industry_page",
+          "title": "YouTube for Education",
+          "rationale": "Highlights the platform's role in learning and development."
+        },
+        {
+          "type": "blog_topic",
+          "title": "Best Practices for YouTube Shorts",
+          "rationale": "Provides actionable advice for creators to increase engagement."
+        }
+      ],
+      "current_title": "YouTube",
+      "current_meta_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "title_length": 49,
+      "meta_description_length": 147
+    },
+    "top_services": [
+      {
+        "name": "Video Hosting",
+        "description": "Platform for uploading and viewing video content.",
+        "target_industry": "General Entertainment",
+        "target_customer": "All users",
+        "main_benefit": "Global reach for content",
+        "source": "website",
+        "evidence": "upload original content, and share it all with friends, family, and the world"
+      },
+      {
+        "name": "Content ID",
+        "description": "Automated copyright management system for rightsholders.",
+        "target_industry": "Media and Entertainment",
+        "target_customer": "Rightsholders",
+        "main_benefit": "Protection of intellectual property",
+        "source": "website",
+        "evidence": "Content ID: Rightsholders can pre-determine rules for when content matches are found"
+      },
+      {
+        "name": "YouTube Premium",
+        "description": "Subscription service for ad-free viewing and music.",
+        "target_industry": "Consumer Entertainment",
+        "target_customer": "Viewers",
+        "main_benefit": "Enhanced viewing experience",
+        "source": "inferred",
+        "evidence": "Mentioned in navigation as a core product offering"
+      },
+      {
+        "name": "YouTube Advertising",
+        "description": "Ad solutions for brands to reach audiences.",
+        "target_industry": "Marketing and Advertising",
+        "target_customer": "Businesses",
+        "main_benefit": "Targeted audience reach",
+        "source": "website",
+        "evidence": "Advertise / YouTube Advertising"
+      },
+      {
+        "name": "Live Streaming",
+        "description": "Real-time video broadcasting capabilities.",
+        "target_industry": "Media and Entertainment",
+        "target_customer": "Creators and Public Figures",
+        "main_benefit": "Real-time community engagement",
+        "source": "website",
+        "evidence": "Steve Kornacki’s work on the Big Board was a staple of election night coverage... 10+ hour livestream"
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Content Creators",
+        "General Viewers"
+      ],
+      "secondary_audience": [
+        "Advertisers",
+        "Rightsholders",
+        "Educators"
+      ],
+      "industries": [
+        "Media",
+        "Entertainment",
+        "Education",
+        "Marketing"
+      ],
+      "business_types": [
+        "Media Companies",
+        "Small Businesses",
+        "Independent Creators"
+      ],
+      "customer_profiles": [
+        "Aspiring influencers",
+        "Brand marketers",
+        "Casual entertainment seekers"
+      ],
+      "geographic_focus": null,
+      "customer_needs": [
+        "Content discovery",
+        "Monetization tools",
+        "Copyright protection",
+        "Audience growth"
+      ],
+      "customer_challenges": [
+        "Algorithm navigation",
+        "Copyright management",
+        "Content saturation"
+      ],
+      "customer_interests": [
+        "Music",
+        "Gaming",
+        "Education",
+        "News",
+        "Entertainment"
+      ],
+      "recommended_segments": [
+        {
+          "audience": "Creators",
+          "business_type": "Individual",
+          "requirement": "Tools for growth and monetization"
+        },
+        {
+          "audience": "Advertisers",
+          "business_type": "Corporate",
+          "requirement": "Targeted ad placement and analytics"
+        },
+        {
+          "audience": "Rightsholders",
+          "business_type": "Media Enterprise",
+          "requirement": "Robust copyright enforcement"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "pages_analyzed": [
+      "https://www.youtube.com/",
+      "https://about.youtube/",
+      "https://blog.youtube/",
+      "https://www.youtube.com/howyoutubeworks/copyright/"
+    ],
+    "cached": false,
+    "latency_ms": 20140,
+    "input_tokens": 3995,
+    "output_tokens": 2155,
+    "estimated_cost_usd": 0.004231,
+    "used_fallback_model": false,
+    "warnings": [
+      "Very little text was found on the page (possibly JavaScript-rendered); analysis may be shallow."
+    ],
+    "disclaimers": [
+      "Competitors are AI-generated suggestions. Entries with verified=true had a reachable website mentioning the company name; none are market-research findings.",
+      "No search-volume, ranking or traffic data is included: none was obtained from a real data source.",
+      "Services with source='inferred' are recommendations, not services stated on the website."
+    ]
+  }
+}

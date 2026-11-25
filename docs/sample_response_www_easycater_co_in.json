@@ -1,0 +1,406 @@
+{
+  "success": true,
+  "website": "https://www.easycater.co.in/",
+  "brand": {
+    "name": "EasyCater",
+    "category": "Food Delivery Service",
+    "summary": "EasyCater is a food delivery platform operating in India, connecting users with local restaurants while offering free delivery on orders above ₹149 and secure payment options via mobile apps."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "A localized food delivery aggregator focusing on affordability and ease of access.",
+      "main_category": "Food Delivery Aggregator",
+      "main_products_services": [
+        "Restaurant food delivery",
+        "Mobile app ordering",
+        "Secure payment processing",
+        "Promotional offers",
+        "Local restaurant discovery"
+      ],
+      "brand_positioning": {
+        "main_service": "Food delivery from local restaurants",
+        "target_market": "Budget-conscious consumers in India",
+        "key_strength": "Free delivery threshold at ₹149",
+        "opportunity": "Expanding restaurant partnerships and loyalty programs"
+      },
+      "competitors": [
+        {
+          "name": "Zomato",
+          "website": "https://www.zomato.com",
+          "main_service": "Food delivery and restaurant discovery",
+          "target_market": "Mass market across India",
+          "strengths": [
+            "Massive restaurant network",
+            "Strong brand recognition"
+          ],
+          "weaknesses_or_gaps": [
+            "High delivery fees during peak hours"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion",
+          "verified": false,
+          "verification_note": "Could not verify website: The website took too long to respond."
+        },
+        {
+          "name": "Swiggy",
+          "website": "https://www.swiggy.com",
+          "main_service": "Food delivery and quick commerce",
+          "target_market": "Urban consumers",
+          "strengths": [
+            "Efficient logistics",
+            "Wide service range"
+          ],
+          "weaknesses_or_gaps": [
+            "Complex pricing structures"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion",
+          "verified": false,
+          "verification_note": "Website reachable but does not clearly match the company name; treat as unverified."
+        },
+        {
+          "name": "Magicpin",
+          "website": "https://magicpin.in",
+          "main_service": "O2O discovery and rewards",
+          "target_market": "Value-seeking diners",
+          "strengths": [
+            "Strong loyalty rewards",
+            "Hyperlocal focus"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited delivery infrastructure compared to giants"
+          ],
+          "confidence": "high",
+          "source": "ai_suggestion_verified_by_site_fetch",
+          "verified": true,
+          "verification_note": "Website reachable and mentions the company name (page title: magicpin | India's #1 Savings App)."
+        }
+      ],
+      "strengths": [
+        "Low barrier to entry with ₹149 free delivery",
+        "Mobile-first approach",
+        "Secure payment integration"
+      ],
+      "opportunities": [
+        "Implement a loyalty program for frequent users",
+        "Expand into grocery or quick-commerce",
+        "Enhance restaurant partnership transparency"
+      ],
+      "comparison_table": [
+        {
+          "attribute": "Brand Name",
+          "your_brand": "EasyCater",
+          "competitor": "Zomato",
+          "competitor_name": "Zomato"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Food delivery from local restaurants",
+          "competitor": "Food delivery and restaurant discovery",
+          "competitor_name": "Zomato"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Budget-conscious consumers in India",
+          "competitor": "Mass market across India",
+          "competitor_name": "Zomato"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Free delivery threshold at ₹149",
+          "competitor": "Massive restaurant network; Strong brand recognition",
+          "competitor_name": "Zomato"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding restaurant partnerships and loyalty programs",
+          "competitor": "High delivery fees during peak hours",
+          "competitor_name": "Zomato"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "EasyCater",
+          "competitor": "Swiggy",
+          "competitor_name": "Swiggy"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Food delivery from local restaurants",
+          "competitor": "Food delivery and quick commerce",
+          "competitor_name": "Swiggy"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Budget-conscious consumers in India",
+          "competitor": "Urban consumers",
+          "competitor_name": "Swiggy"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Free delivery threshold at ₹149",
+          "competitor": "Efficient logistics; Wide service range",
+          "competitor_name": "Swiggy"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding restaurant partnerships and loyalty programs",
+          "competitor": "Complex pricing structures",
+          "competitor_name": "Swiggy"
+        },
+        {
+          "attribute": "Brand Name",
+          "your_brand": "EasyCater",
+          "competitor": "Magicpin",
+          "competitor_name": "Magicpin"
+        },
+        {
+          "attribute": "Main Service",
+          "your_brand": "Food delivery from local restaurants",
+          "competitor": "O2O discovery and rewards",
+          "competitor_name": "Magicpin"
+        },
+        {
+          "attribute": "Target Market",
+          "your_brand": "Budget-conscious consumers in India",
+          "competitor": "Value-seeking diners",
+          "competitor_name": "Magicpin"
+        },
+        {
+          "attribute": "Key Strength",
+          "your_brand": "Free delivery threshold at ₹149",
+          "competitor": "Strong loyalty rewards; Hyperlocal focus",
+          "competitor_name": "Magicpin"
+        },
+        {
+          "attribute": "Opportunity",
+          "your_brand": "Expanding restaurant partnerships and loyalty programs",
+          "competitor": "Limited delivery infrastructure compared to giants",
+          "competitor_name": "Magicpin"
+        }
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "best food delivery apps in India 2026",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "Informational",
+        "business_relevance": "High",
+        "target_audience": "General consumers"
+      },
+      {
+        "query": "order food online near me",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "Transactional",
+        "business_relevance": "High",
+        "target_audience": "Hungry local users"
+      },
+      {
+        "query": "food delivery offers for restaurants",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "Commercial",
+        "business_relevance": "Medium",
+        "target_audience": "Value-seeking diners"
+      },
+      {
+        "query": "how to partner with food delivery platforms",
+        "platforms": [
+          "LinkedIn"
+        ],
+        "intent": "B2B",
+        "business_relevance": "Medium",
+        "target_audience": "Restaurant owners"
+      },
+      {
+        "query": "fastest food delivery service review",
+        "platforms": [
+          "X"
+        ],
+        "intent": "Navigational",
+        "business_relevance": "High",
+        "target_audience": "Tech-savvy users"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "food delivery",
+      "secondary_keywords": [
+        "local restaurants",
+        "online food ordering",
+        "free delivery"
+      ],
+      "long_tail_keywords": [
+        "order food online in India",
+        "food delivery apps with free delivery"
+      ],
+      "business_keywords": [
+        "EasyCater",
+        "restaurant delivery",
+        "food app"
+      ],
+      "recommended_title": "EasyCater: Order Food from Local Restaurants | Free Delivery",
+      "title_structure": "Brand Name: Primary Keyword | Value Proposition",
+      "meta_description": "Order delicious food from local restaurants with EasyCater. Enjoy free delivery on orders above ₹149, secure payments, and exclusive offers. Download now!",
+      "supporting_content": [
+        {
+          "type": "blog_topic",
+          "title": "Top 10 Local Restaurants You Must Try This Month",
+          "rationale": "Increases local engagement and SEO relevance."
+        },
+        {
+          "type": "faq",
+          "title": "How does EasyCater's free delivery work?",
+          "rationale": "Addresses common user questions regarding the ₹149 threshold."
+        },
+        {
+          "type": "industry_page",
+          "title": "Partner With Us: Grow Your Restaurant Business",
+          "rationale": "Attracts restaurant partners to expand the platform's reach."
+        },
+        {
+          "type": "supporting_article",
+          "title": "Why Choose EasyCater for Your Daily Meals?",
+          "rationale": "Builds brand trust and highlights unique selling points."
+        },
+        {
+          "type": "service_landing_page",
+          "title": "EasyCater Mobile App Features",
+          "rationale": "Highlights the convenience of the Android and iOS apps."
+        },
+        {
+          "type": "blog_topic",
+          "title": "How to Save Money on Food Delivery in 2026",
+          "rationale": "Targets budget-conscious users searching for deals."
+        }
+      ],
+      "current_title": "EasyCater Food Delivery | Order from Local Restaurants",
+      "current_meta_description": "Order food from local restaurants on EasyCater. Local restaurant prices, free delivery above ₹149, secure payments and offers on Android and iOS.",
+      "title_length": 60,
+      "meta_description_length": 154
+    },
+    "top_services": [
+      {
+        "name": "Restaurant Food Delivery",
+        "description": "Delivery of meals from local restaurants to customer locations.",
+        "target_industry": "Food & Beverage",
+        "target_customer": "General consumers",
+        "main_benefit": "Convenience of home dining",
+        "source": "website",
+        "evidence": "Order food from local restaurants on EasyCater."
+      },
+      {
+        "name": "Secure Payment Processing",
+        "description": "Integrated secure payment gateway for food orders.",
+        "target_industry": "Fintech",
+        "target_customer": "General consumers",
+        "main_benefit": "Safe and reliable transactions",
+        "source": "website",
+        "evidence": "secure payments"
+      },
+      {
+        "name": "Promotional Offers",
+        "description": "Discounts and deals on food orders.",
+        "target_industry": "Retail",
+        "target_customer": "Budget-conscious consumers",
+        "main_benefit": "Cost savings",
+        "source": "website",
+        "evidence": "offers on Android and iOS"
+      },
+      {
+        "name": "Mobile App Ordering",
+        "description": "Ordering food via dedicated Android and iOS applications.",
+        "target_industry": "Technology",
+        "target_customer": "Mobile users",
+        "main_benefit": "Ease of use",
+        "source": "website",
+        "evidence": "offers on Android and iOS"
+      },
+      {
+        "name": "Free Delivery Service",
+        "description": "Complimentary delivery for orders meeting a minimum value.",
+        "target_industry": "Logistics",
+        "target_customer": "General consumers",
+        "main_benefit": "Reduced order costs",
+        "source": "website",
+        "evidence": "free delivery above ₹149"
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Urban residents",
+        "Students",
+        "Working professionals"
+      ],
+      "secondary_audience": [
+        "Restaurant owners",
+        "Local food vendors"
+      ],
+      "industries": [
+        "Food & Beverage",
+        "Technology"
+      ],
+      "business_types": [
+        "Local restaurants",
+        "Cafes",
+        "Fast food chains"
+      ],
+      "customer_profiles": [
+        "Busy professionals",
+        "Budget-conscious students"
+      ],
+      "geographic_focus": "India",
+      "customer_needs": [
+        "Fast delivery",
+        "Affordable pricing",
+        "Variety of food options"
+      ],
+      "customer_challenges": [
+        "High delivery fees",
+        "Limited restaurant options",
+        "Unreliable payment methods"
+      ],
+      "customer_interests": [
+        "Dining out",
+        "Convenience",
+        "Food discounts"
+      ],
+      "recommended_segments": [
+        {
+          "audience": "Students",
+          "business_type": "Fast food",
+          "requirement": "High frequency, low cost"
+        },
+        {
+          "audience": "Working Professionals",
+          "business_type": "Casual dining",
+          "requirement": "Speed and reliability"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "pages_analyzed": [
+      "https://www.easycater.co.in/"
+    ],
+    "cached": false,
+    "latency_ms": 23746,
+    "input_tokens": 1211,
+    "output_tokens": 2110,
+    "estimated_cost_usd": 0.003468,
+    "used_fallback_model": false,
+    "warnings": [
+      "Very little text was found on the page (possibly JavaScript-rendered); analysis may be shallow."
+    ],
+    "disclaimers": [
+      "Competitors are AI-generated suggestions. Entries with verified=true had a reachable website mentioning the company name; none are market-research findings.",
+      "No search-volume, ranking or traffic data is included: none was obtained from a real data source.",
+      "Services with source='inferred' are recommendations, not services stated on the website."
+    ]
+  }
+}
